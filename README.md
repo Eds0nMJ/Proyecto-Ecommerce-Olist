@@ -30,3 +30,6 @@ Pipeline analítico de punta a punta desarrollado para portafolio profesional, i
 
 ---
 *Desarrollado por Edson Bartolo Huere - Estudiante de Computación Científica (UNMSM)*
+---
+## 📊 Vista Previa del Dashboard (Power BI)
+![Dashboard Ejecutivo Olist](Assets/dashboard-general.png)
